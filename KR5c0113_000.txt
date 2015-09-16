@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:24:32.528391
+# -*- mode: mandoku-view -*-
 #+TITLE: 道德真經集義
-#+PROPERTY: DZID  DZ0724
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，14—84 十七卷 洞神部玉訣類
+#+DATE: 2015-08-29 00:25:11
+#+PROPERTY:  LASTPB <PB KR5c0113_SJB_017-140295a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶<md:KR5c0113_HFL_017-041b>¶¶¶¶¶¶¶¶¶¶
+
